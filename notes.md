@@ -1,0 +1,6 @@
+# Notes
+
+Working notes for the AI Foundations program. Module 2.2 has you edit the line below on
+two branches at once, so you cause a conflict on purpose and resolve it.
+
+Cedar Ridge, 12 units, asking 1750000
