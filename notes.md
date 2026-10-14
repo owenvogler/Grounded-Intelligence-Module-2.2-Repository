@@ -4,4 +4,3 @@ Working notes for the AI Foundations program. Module 2.2 has you edit the line b
 two branches at once, so you cause a conflict on purpose and resolve it.
 
 Cedar Ridge, 12 units, asking 1750000, cap rate pending
-Cedar Ridge, 12 units, asking 1750000, in-place NOI calculated in Module 1.3
